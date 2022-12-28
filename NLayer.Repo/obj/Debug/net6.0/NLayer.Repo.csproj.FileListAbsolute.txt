@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\bin\Debug\net6.0\NLayer.Repo.deps.json
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\bin\Debug\net6.0\NLayer.Repo.dll
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\bin\Debug\net6.0\NLayer.Repo.pdb
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.csproj.CopyComplete
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.dll
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\refint\NLayer.Repo.dll
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\NLayer.Repo.pdb
+C:\Users\ahmet\source\repos\TODO\NLayer.Repo\obj\Debug\net6.0\ref\NLayer.Repo.dll
